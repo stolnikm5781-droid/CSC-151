@@ -1,3 +1,3 @@
-#CSC-151 Java Programming
+# CSC-151 Java Programming
 
-##Welcome to my Java Programming Repository!
+## Welcome to my Java Programming Repository!
